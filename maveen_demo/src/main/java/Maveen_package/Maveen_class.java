@@ -6,4 +6,8 @@ public class Maveen_class {
 	{
 		return one + two;
 	}
+	public static void main(String[] args)
+	{
+	System.out.println("program is successful");
+	}
 }
